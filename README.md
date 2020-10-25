@@ -16,3 +16,6 @@ python manage.py shell
 >>> Track.objects.create(title='Track 1', description='Track 1 description', url='https://track1.com')
 <Track: Track object (1)>
 ```
+
+
+https://docs.graphene-python.org/en/latest/types/mutations/
